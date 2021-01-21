@@ -11,8 +11,8 @@
   </div>
 </template>
 <script>
-// import * as echarts from 'echarts'
-let echarts = require('echarts')
+import * as echarts from 'echarts'
+// let echarts = require('echarts')
 import _ from 'lodash'
 export default {
   data() {
